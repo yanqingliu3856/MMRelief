@@ -27,7 +27,7 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 </p>
 
 <p align="center">
-you can download the high-definition video click <a href = "https://github.com/yanqingliu3856/MMRelief/blob/e90f053508b57399c881153d84c56f593a877a2f/video">here</a>
+You can download the high-definition video click <a href = "https://github.com/yanqingliu3856/MMRelief/blob/e90f053508b57399c881153d84c56f593a877a2f/video">here</a>
 </p>
 
 * **Single-human results**:
@@ -42,5 +42,5 @@ you can download the high-definition video click <a href = "https://github.com/y
     <img src="results/Fig11.jpg" width="80%" >
 </div>
 
-* **Acknowledgement**: we thank <a href = "https://www.pexels.com">pexels</a> and <a href = "https://unsplash.com">
+* **Acknowledgement**: We thank <a href = "https://www.pexels.com">pexels</a> and <a href = "https://unsplash.com">
   unsplash</a>  for providing free testing photographs.

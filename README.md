@@ -53,5 +53,5 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 * **Acknowledgement**: We thank <a href = "https://www.pexels.com">pexels</a> and <a href = "https://unsplash.com">
  unsplash</a> for providing free testing photographs.
 
-* **Citation**
+## Citation
 ```bash

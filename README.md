@@ -33,6 +33,14 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 You can download the high-definition video click <a href = "https://github.com/yanqingliu3856/MMRelief/blob/598252234309a498dd5a1c2af68301e8b6230ae0/video">here</a>
 </p>
 
+***
+
+[//]: # (<div align="center">)
+
+[//]: # (  <hr style="width: 80%;">)
+
+[//]: # (</div>)
+
 <p align="center" >
 
   <img src="./video/video_B_01.gif?raw=true" alt="Sublime's custom image" width="80%"/>

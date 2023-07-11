@@ -25,7 +25,7 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 
 <p align="center" >
 
-  <img src="./video/video_03.gif?raw=true" alt="Sublime's custom image" width="80%"/>
+  <img src="./video/video_A_03.gif?raw=true" alt="Sublime's custom image" width="80%"/>
 
 </p>
 

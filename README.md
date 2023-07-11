@@ -23,17 +23,21 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 
 * **Video**:
 
-[//]: # (<p align="center" >)
+<p align="center" >
 
-[//]: # (  <img src="./video/video_02.gif?raw=true" alt="Sublime's custom image" width="80%"/>)
+  <img src="./video/video_03.gif?raw=true" alt="Sublime's custom image" width="80%"/>
 
-[//]: # (</p>)
+</p>
 
 <p align="center">
 You can download the high-definition video click <a href = "https://github.com/yanqingliu3856/MMRelief/blob/598252234309a498dd5a1c2af68301e8b6230ae0/video">here</a>
 </p>
 
-<video src="https://user-images.githubusercontent.com/4397546/230717873-355b7bf3-d3de-49f9-a439-9220e623fce7.mp4" type="video/mp4"></video>
+<p align="center" >
+
+  <img src="./video/video_B_01.gif?raw=true" alt="Sublime's custom image" width="80%"/>
+
+</p>
 
 * **Single-human results**:
 

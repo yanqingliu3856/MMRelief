@@ -19,7 +19,7 @@ By combining the strengths of both maps through depth-constrained normal integra
 reliefs with accurate occlusions, reasonable depth ordering and rich geometrical details.
 <div style="text-align: justify;"></div>
 
-## MMRelief:
+## MMRelief
 
 * **Video**:
 

@@ -32,7 +32,7 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 <p align="center">
 You can download the high-definition video click <a href = "https://github.com/yanqingliu3856/MMRelief/blob/598252234309a498dd5a1c2af68301e8b6230ae0/video">here</a>
 </p>
-<video  src="./video/1.mp4" type="video/mp4"> </video> 
+<video  src="https://github.com/yanqingliu3856/MMRelief/blob/0a2e2dbf6e0cf6b0f41d62bfd865ca5d485ba0e0/video/1.mp4" type="video/mp4"></video> 
 
 * **Single-human results**:
 

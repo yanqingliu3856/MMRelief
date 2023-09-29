@@ -1,11 +1,12 @@
 # MMRelief: Modeling Multi-human Relief from a Single Photograph
 
 <br/>
-Yu-Wei Zhang, Yanqing Liu, Hongguang Yang, Yanzhao Chen, Hui Liu, Zhongping Ji, Caiming Zhang
+Yu-Wei Zhang, Yanqing Liu, Hongguang Yang, Hui Liu, Zhongping Ji, Mingqiang Wei, Yanzhao Chen, Caiming Zhang
 
 <a href = "">Paper</a> |
-<a href = "https://pan.baidu.com/s/13hwNrfjbchzRGalTlLZ5lQ?pwd=rg1f">Data(百度网盘)</a> |
-<a href = "https://drive.google.com/file/d/1GhFdNuZphg4LK-26Gv75csQ0skHqIAla/view?usp=sharing">Data(Google Drive)</a> |
+<a href = "https://pan.baidu.com/s/13hwNrfjbchzRGalTlLZ5lQ?pwd=rg1f">Relief testing data (百度网盘)</a> |
+<a href = "https://drive.google.com/file/d/1GhFdNuZphg4LK-26Gv75csQ0skHqIAla/view?usp=sharing">Relief testing data (Google Drive)</a> |
+<a href = "https://drive.google.com/file/d/17oNG8QxxxOMCwIZvnZhPqpac-Ychv0P8/view?usp=drive_link">Normal testing set (Google Drive)</a> |
 
 <br/>
 
@@ -25,7 +26,7 @@ reliefs with accurate occlusions, reasonable depth ordering and rich geometrical
 
 <p align="center" >
 
-  <img src="./video/video_A_03.gif?raw=true" alt="Sublime's custom image" width="80%"/>
+  <img src="./video/video_A_04.gif?raw=true" alt="Sublime's custom image" width="80%"/>
 
 </p>
 
